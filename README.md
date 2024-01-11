@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there, I'm Winston 👋  
 
-<!--
-**winston-trinh/winston-trinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a computer science major at the University of Southern California
 
-Here are some ideas to get you started:
+- Highly interested in full stack and mobile development, cloud computing, distributed data systems, and product management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently improving skills with React
+
+- Teaching various computer science topics ranging from Scratch to Java/Python to students spanning K-12th grade at CS@SC
+
+### Connect with me:
+[<img align="left" alt="winston-trinh | email" width="37px" src="https://github.com/winston-trinh/test/blob/main/images/mail.png" />][mail]
+[<img align="left" alt="winston-trinh | LinkedIn" width="30px" src="https://github.com/winston-trinh/test/blob/main/images/linkedin.png" />][linkedin]
+<br />
+<br />
+I'm open to collaborations or positions involving any of the topics above!
+
+### Languages and Tools:
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/c.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/c++.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/java.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/swift.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/python.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/javascript.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/html.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/css.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/react.svg" />
+<a href="#"><img align="left" width="39px" src="https://github.com/winston-trinh/test/blob/main/images/flutter.png" />
+<br />
+<br />
+<a href="#"><img align="left" width="61px" src="https://github.com/winston-trinh/test/blob/main/images/mysql.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/firebase.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/git.svg" />
+<a href="#"><img align="left" width="40px" src="https://github.com/winston-trinh/test/blob/main/images/docker.svg" />
+  
+[mail]: mailto:wntrinh@usc.edu
+[linkedin]: https://www.linkedin.com/in/winstontrinh/
