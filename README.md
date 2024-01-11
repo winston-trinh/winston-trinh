@@ -16,22 +16,17 @@
 I'm open to collaborations or positions involving any of the topics above!
 
 ### Languages and Tools:
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/c.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/c++.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/java.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/swift.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/python.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/javascript.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/html.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/css.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/react.svg" />
-<a href="#"><img align="left" width="39px" src="https://github.com/winston-trinh/test/blob/main/images/flutter.png" />
-<br />
-<br />
-<a href="#"><img align="left" width="61px" src="https://github.com/winston-trinh/test/blob/main/images/mysql.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/firebase.svg" />
-<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/test/blob/main/images/git.svg" />
-<a href="#"><img align="left" width="40px" src="https://github.com/winston-trinh/test/blob/main/images/docker.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/c++.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/java.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/swift.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/python.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/javascript.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/react.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/flutter.png" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/mysql.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/firebase.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/git.svg" />
+<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/test/blob/main/images/docker.svg" />
   
 [mail]: mailto:wntrinh@usc.edu
 [linkedin]: https://www.linkedin.com/in/winstontrinh/
