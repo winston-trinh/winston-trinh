@@ -10,8 +10,12 @@ Check out my [website](https://winston-trinh.github.io/index.html)!
 - Teaching various computer science topics ranging from Scratch to Java/Python to students spanning K-12th grade at CS@SC
 
 ### Connect with me:
-[<img align="left" alt="winston-trinh | email" width="37px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/mail.png" />][mail]
-[<img align="left" alt="winston-trinh | LinkedIn" width="30px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/linkedin.png" />][linkedin]
+<a href="mailto:wntrinh@usc.edu" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="winston-trinh | email" width="37px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/mail.png" />
+</a>
+<a href="https://www.linkedin.com/in/winstontrinh/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="winston-trinh | LinkedIn" width="30px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/linkedin.png" />
+</a>
 <br />
 <br />
 I'm open to collaborations or positions involving any of the topics above!
@@ -28,6 +32,3 @@ I'm open to collaborations or positions involving any of the topics above!
 <a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/firebase.svg" />
 <a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/git.svg" />
 <a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/docker.svg" />
-  
-[mail]: mailto:wntrinh@usc.edu
-[linkedin]: https://www.linkedin.com/in/winstontrinh/
