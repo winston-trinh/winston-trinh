@@ -7,7 +7,7 @@ Check out my [website](https://winston-trinh.github.io/index.html)!
 
 - Currently improving skills with React
 
-- Teaching various computer science topics ranging from Scratch to Java/Python to students spanning K-12th grade at CS@SC
+- Research assistant for [Professor Duquette](http://www.nicolasduquette.com/index.html) using Python to develop predictive models for nonprofit budgeting with scikit-learn
 
 ### Connect with me:
 <a href="mailto:wntrinh@usc.edu" target="_blank" rel="noopener noreferrer">
