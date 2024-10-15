@@ -1,7 +1,7 @@
 ### Hi there, I'm Winston 👋  
 
 ## I'm a computer science major at the University of Southern California
-Check out my [website](https://winston-trinh.github.io/index.html)!
+Check out my [website](https://winstontrinh.com)!
 
 - Highly interested in full stack and mobile development, cloud computing, distributed data systems, and product management
 
