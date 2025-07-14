@@ -7,7 +7,7 @@ Check out my [website](https://winstontrinh.com)!
 
 - Currently improving my skills in PostgreSQL and Bash scripting
 
-- Incoming Network Engineer @ AT&T (July 2025)
+- Network Engineer @ AT&T
 
 Reach me at wntrinh@usc.edu or on [LinkedIn](https://www.linkedin.com/in/winstontrinh/) - I'm open to collaborations or positions involving any of the topics above!
 
@@ -21,15 +21,15 @@ Reach me at wntrinh@usc.edu or on [LinkedIn](https://www.linkedin.com/in/winston
 <br />
 
 ### Languages and Tools:
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/python.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/c++.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/java.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/react.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/swift.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/flutter.png" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/postgresql.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/mysql.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/git.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/docker.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/bash.svg" />
-<a href="#"><img align="left" height="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/aws.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/python.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/c++.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/bash.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/aws.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/java.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/react.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/swift.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/flutter.png" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/postgresql.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/mysql.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/git.svg" />
+<a href="#"><img align="left" width="45px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/docker.svg" />
