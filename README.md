@@ -9,7 +9,7 @@ Check out my [website](https://winstontrinh.com)!
 
 - AI Engineer @ AT&T
 
-Reach me at wntrinh@usc.edu or on [LinkedIn](https://www.linkedin.com/in/winstontrinh/) - I'm open to collaborations or positions involving any of the topics above!
+Reach me at winstontrinh4@gmail.com or on [LinkedIn](https://www.linkedin.com/in/winstontrinh/) - I'm open to collaborations or positions involving any of the topics above!
 
 <a href="mailto:wntrinh@usc.edu" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="winston-trinh | email" width="37px" src="https://github.com/winston-trinh/winston-trinh/blob/main/images/mail.png" />
