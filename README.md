@@ -7,7 +7,7 @@ Check out my [website](https://winstontrinh.com)!
 
 - Currently improving my skills in PostgreSQL and Bash scripting
 
-- Network Engineer @ AT&T
+- AI Engineer @ AT&T
 
 Reach me at wntrinh@usc.edu or on [LinkedIn](https://www.linkedin.com/in/winstontrinh/) - I'm open to collaborations or positions involving any of the topics above!
 
